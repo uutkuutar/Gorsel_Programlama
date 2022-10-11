@@ -1,0 +1,11 @@
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\bin\Debug\vizefinal.exe.config
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\bin\Debug\vizefinal.exe
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\bin\Debug\vizefinal.pdb
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.csproj.AssemblyReference.cache
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.Form1.resources
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.Properties.Resources.resources
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.csproj.GenerateResource.cache
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.csproj.CoreCompileInputs.cache
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.exe
+C:\Users\utkuu\Desktop\vizefinal\vizefinal\vizefinal\obj\Debug\vizefinal.pdb
