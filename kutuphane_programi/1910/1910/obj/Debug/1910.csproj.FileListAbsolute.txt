@@ -1,0 +1,13 @@
+C:\Users\utkuu\source\repos\1910\1910\bin\Debug\1910.exe.config
+C:\Users\utkuu\source\repos\1910\1910\bin\Debug\1910.exe
+C:\Users\utkuu\source\repos\1910\1910\bin\Debug\1910.pdb
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\1910.csproj.AssemblyReference.cache
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\1910.csproj.SuggestedBindingRedirects.cache
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\_1910.AnaEkran.resources
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\_1910.KitapEklemeEkrani.resources
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\_1910.Properties.Resources.resources
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\1910.csproj.GenerateResource.cache
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\1910.csproj.CoreCompileInputs.cache
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\1910.exe
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\1910.pdb
+C:\Users\utkuu\source\repos\1910\1910\obj\Debug\_1910.KitapGuncelle.resources
